@@ -46,6 +46,8 @@ nav {
     font-size: 2rem;
     font-weight: 600;
     color: #0d213f;
+    display: flex;
+    flex-direction: row;
 }
 
 /* Logo Span */
